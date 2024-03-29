@@ -15,16 +15,16 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Jacky Ilievski{" "}
-          </a>{" "}
+            Jacky Ilievski
+          </a>
           , is open-sourced on{" "}
           <a
             href="https://github.com/JacyDee274/reactweatherappjackyfinal"
             target="_blank"
             rel="noreferrer"
           >
-            GitHub{" "}
-          </a>
+            GitHub
+          </a>{" "}
           and hosted on{" "}
           <a
             href="https://jacky-weather-app-finale.netlify.app/"
